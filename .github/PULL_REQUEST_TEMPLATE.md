@@ -1,5 +1,6 @@
 ## 📌 What does this PR do?
 
+Closes #[issue number]
 ---
 
 ## 🔧 Changes
@@ -9,12 +10,6 @@
 - [ ] Refactored
 - [ ] Styles updated
 - [ ] New dependencies added
-
----
-
-## 📎 Related Issues
-
-Closes #[issue number]
 
 ---
 
