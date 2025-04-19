@@ -1,7 +1,8 @@
 ## 📌 What does this PR do?
 
-Closes #[issue number]
----
+[Deployed link](https://anzhelika007.github.io/english-for-it/)
+
+Closes #[namber]
 
 ## 🔧 Changes
 
@@ -11,7 +12,6 @@ Closes #[issue number]
 - [ ] Styles updated
 - [ ] New dependencies added
 
----
 
 ## ✅ Checklist
 
