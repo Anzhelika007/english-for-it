@@ -1,6 +1,6 @@
 ## 📌 What does this PR do?
 
-[Deployed link](https://anzhelika007.github.io/english-for-it/)
+<a href="https://anzhelika007.github.io/english-for-it/" target="_blank" rel="noopener noreferrer">Deployed link</a>
 
 Closes #[namber]
 
