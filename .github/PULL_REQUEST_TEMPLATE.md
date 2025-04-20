@@ -1,6 +1,8 @@
 ## 📌 What does this PR do?
 
----
+<a href="https://anzhelika007.github.io/english-for-it/" target="_blank" rel="noopener noreferrer">Deployed link</a>
+
+Closes #[namber]
 
 ## 🔧 Changes
 
@@ -10,13 +12,6 @@
 - [ ] Styles updated
 - [ ] New dependencies added
 
----
-
-## 📎 Related Issues
-
-Closes #[issue number]
-
----
 
 ## ✅ Checklist
 
